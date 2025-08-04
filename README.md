@@ -1,4 +1,16 @@
-# DEEP-LEARNING-PROJECT
+company: CODTECH IT SOLUTIONS
+
+NAME: OM KUMAR
+
+INTERN ID: CT04DH1971
+
+DOMAIN: DATA SCIENCE
+
+DURATION: 4 WEEKS
+
+MENTOR: Muzammil
+
+DESCRIPTION OF TASK# DEEP-LEARNING-PROJECT
 # Task 2: Deep Learning Image Classification
 
 This project demonstrates a deep learning model using TensorFlow and Keras to classify handwritten digits from the MNIST dataset.
