@@ -1,6 +1,3 @@
-
-
-DESCRIPTION OF TASK
 # Task 2: Deep Learning Image Classification
 
 company: CODTECH IT SOLUTIONS
