@@ -1,0 +1,9 @@
+output_sample.png  
+Since image cannot be pasted here, run the Python script to generate it:
+
+At the end of the script, this part will *display and save the output*:
+'''python
+plt.imshow(x_test[0].reshape(28, 28), cmap='gray')
+plt.title(f"Predicted Label: {np.argmax(predictions[0])}")
+plt.axis('off')
+plt.show()
