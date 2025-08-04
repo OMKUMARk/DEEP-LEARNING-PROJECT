@@ -1,4 +1,7 @@
-DESCRIPTION OF TASK# DEEP-LEARNING-PROJECT
+
+
+DESCRIPTION OF TASK
+# Task 2: Deep Learning Image Classification
 
 company: CODTECH IT SOLUTIONS
 
@@ -13,7 +16,6 @@ DURATION: 4 WEEKS
 MENTOR: Muzammil
 
 DESCRIPTION OF TASK
-# Task 2: Deep Learning Image Classification
 
 This project demonstrates a deep learning model using TensorFlow and Keras to classify handwritten digits from the MNIST dataset.
 
